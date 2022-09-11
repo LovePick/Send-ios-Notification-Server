@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gepo/apns-http2": "^0.1.0"
+    }
+}
